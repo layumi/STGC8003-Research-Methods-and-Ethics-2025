@@ -16,4 +16,4 @@ Time:19:00 – 22:00
 | Oct. 6, 2025 (week 8)    | Prof. Li Li          | Efficient Inference and Fine-tuning of LLMs on the Edge                                                   |
 | Oct. 13, 2025 (week 9)   | Prof. Shu Kong       | Visual Perception and Learning in an Open World        |
 | Oct. 20, 2025 (week 10)  | Prof. Chi Man VONG   | Visual Place Recognition and Cross-View Geo-localization |
-| Oct. 27, 2025 (week 11)  | Prof. Pengyang Wang  |                                                     |
+| Oct. 27, 2025 (week 11)  | Prof. Pengyang Wang  | Recent Advances in Time Series Forecasting         |
