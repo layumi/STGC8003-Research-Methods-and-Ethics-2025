@@ -1,5 +1,9 @@
 # STGC8003-Research-Methods-and-Ethics-2025
 
+Venue: E4-1063  
+
+Time:19:00 – 22:00
+
 | Date                     | Speaker              | Topic                                                  |
 |--------------------------|----------------------|--------------------------------------------------------|
 | Aug. 18, 2025 (week 1)   | Prof. Zhedong Zheng  | Introduction to the course                             |
