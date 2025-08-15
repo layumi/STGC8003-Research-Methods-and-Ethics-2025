@@ -7,7 +7,7 @@ Time:19:00 – 22:00
 | Date                     | Speaker              | Topic                                                  |
 |--------------------------|----------------------|--------------------------------------------------------|
 | Aug. 18, 2025 (week 1)   | Prof. Zhedong Zheng  | Introduction to the course                             |
-| Aug. 25, 2025 (week 2) 8:00-10:00  | Prof. Steven Morad   | Deep Decision Making                                   |
+| Aug. 25, 2025 (week 2) 8:00-11:00  | Prof. Steven Morad   | Deep Decision Making                                   |
 | Sept. 1, 2025 (week 3)   | Prof. Bob Zhang      | Biometrics: The Future of Security and Medical Diagnosis                                                    |
 | Sept. 8, 2025 (week 4)   | Prof. Qingbiao Li    | TBD                                                    |
 | Sept. 15, 2025 (week 5)  | Prof. Chengzhong Xu  | Autonomous Systems and Embodied AI                                                    |
