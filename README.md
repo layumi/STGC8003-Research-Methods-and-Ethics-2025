@@ -13,7 +13,7 @@ Time:19:00 – 22:00
 | Sept. 15, 2025 (week 5)  | Prof. Chengzhong Xu  | Autonomous Systems and Embodied AI                                                    |
 | Sept. 22, 2025 (week 6)  | Prof. Peng Wang      | Introduction to Generative AI Models                                                    |
 | Sept. 29, 2025 (week 7)  | Prof. Jiantao Zhou   | Seeing is believing? --- Robust Learning-based Multimedia Forensics and Security |
-| Oct. 6, 2025 (week 8)    | Prof. Li Li          | Efficient Inference and Fine-tuning of LLMs on the Edge                                                   |
-| Oct. 13, 2025 (week 9)   | Prof. Bob Zhang      | Biometrics: The Future of Security and Medical Diagnosis                                                    |
+| Oct. 6, 2025 (week 8)    | Prof. Bob Zhang      | Biometrics: The Future of Security and Medical Diagnosis                                                    |
+| Oct. 13, 2025 (week 9)   | Prof. Li Li          | Efficient Inference and Fine-tuning of LLMs on the Edge                                                   |
 | Oct. 20, 2025 (week 10)  | Prof. Chi Man VONG   | Visual Place Recognition and Cross-View Geo-localization |
 | Oct. 27, 2025 (week 11)  | Prof. Pengyang Wang  | Recent Advances in Time Series Forecasting         |
