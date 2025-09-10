@@ -9,7 +9,7 @@ Time:19:00 – 22:00
 | Aug. 18, 2025 (week 1)   | Prof. Zhedong Zheng  | Introduction to the course                             |
 | Aug. 25, 2025 (week 2)   | Prof. Zhedong Zheng (19:00 - 20:15) + Prof. Steven Morad (20:30 - 22:00)  | Deep Decision Making                                   |
 | Sept. 1, 2025 (week 3)   | Prof. Shu Kong       | Visual Perception and Learning in an Open World        |
-| Sept. 8, 2025 (week 4)   | Prof. Qingbiao Li    | TBD                                                    |
+| Sept. 8, 2025 (week 4)   | Prof. Qingbiao Li    | Machine Learning for Embodied Artificial Intelligencefrom Surgical Robotics to Multi-robot Coordination                                                    |
 | Sept. 15, 2025 (week 5)  | Prof. Chengzhong Xu  | Autonomous Systems and Embodied AI                                                    |
 | Sept. 22, 2025 (week 6)  | Prof. Peng Wang      | Introduction to Generative AI Models                                                    |
 | Sept. 29, 2025 (week 7)  | Prof. Jiantao Zhou   | Seeing is believing? --- Robust Learning-based Multimedia Forensics and Security |
