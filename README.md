@@ -17,3 +17,5 @@ Time:19:00 – 22:00
 | Oct. 13, 2025 (week 9)   | Prof. Li Li          | Efficient Inference and Fine-tuning of LLMs on the Edge                                                   |
 | Oct. 20, 2025 (week 10)  | Prof. Chi Man VONG   | Visual Place Recognition and Cross-View Geo-localization |
 | Oct. 27, 2025 (week 11)  | Prof. Pengyang Wang  | Recent Advances in Time Series Forecasting         |
+
+https://github.com/layumi/STGC8003-UM-PhD-Group-Presentation
